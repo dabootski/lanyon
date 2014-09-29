@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Lanyon</title>
+ <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://lanyon.getpoole.com/"/>
+ <updated>2014-09-29T00:16:19-05:00</updated>
+ <id>http://lanyon.getpoole.com</id>
+ <author>
+   <name>Mark Otto</name>
+   <email>markdotto@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>09/22/2014 BIR Performance Driving School</title>
+   <link href="http://lanyon.getpoole.com/2014/09/28/bir-school-2014-09-22/"/>
+   <updated>2014-09-28T00:00:00-05:00</updated>
+   <id>http://lanyon.getpoole.com/2014/09/28/bir-school-2014-09-22</id>
+   <content type="html">&lt;p&gt;Some video and data from my most recent trip to &lt;a href=&quot;http://www.birperformance.com/bir-performance-driving-school/&quot;&gt;Gary Curtis&amp;#39; Performance Driving School&lt;/a&gt; at Brainerd International Raceway.&lt;/p&gt;
+
+&lt;h3&gt;Videos&lt;/h3&gt;
+
+&lt;p&gt;My fastest lap of the day according to the data logger was a 1:58.82 but the best my Go-Pro captured was this 1:59.57.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/NNx4KWChCZM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;10 minutes of low-traffic lapping on the 3.1 mile long course. Passed by a cool formula car &lt;a href=&quot;https://www.youtube.com/watch?v=xI2r3PGxxPI#t=95&quot;&gt;~1:35 mark&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/xI2r3PGxxPI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Highlights&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fastest Donnybrooke/long course lap: 1:58.82&lt;/li&gt;
+&lt;li&gt;Fastest Competition/short course lap: ??? (TODO: Dig through videos)&lt;/li&gt;
+&lt;li&gt;Top speed: 130.5 mph (Donnybrooke)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Data&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/public/data/Log-20140922-140004-Brainerd-Donnybrooke-Course.csv&quot;&gt;Long Course - Session 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/public/data/Log-20140922-150100-Brainerd-Donnybrooke-Course.csv&quot;&gt;Long Course - Session 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/public/data/Log-20140922-155612-Brainerd-Donnybrooke-Course.csv&quot;&gt;Long Course - Session 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Course Map&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://brainerdraceway.com/wp_lib/wp-content/uploads/2013/02/09RoadCourseMap.jpg&quot; alt=&quot;BIR Course Map&quot;&gt;
+&lt;a href=&quot;http://brainerdraceway.com/wp_lib/wp-content/uploads/2013/02/09RoadCourseMap.jpg&quot;&gt;Original source&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
