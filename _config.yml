@@ -12,15 +12,15 @@ relative_permalinks: true
 title:               cosmos000
 tagline:             'E36 M3 autocross and HPDE log'
 description:         'E36 M3 autocross and HPDE log'
-url:                 http://lanyon.getpoole.com
+url:                 http://cosmos000.com
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jason Bucki
+  url:               https://twitter.com/dabootski
+  email:             jasonbucki@gmail.com
 
 # Custom vars
 version:             1.0.0

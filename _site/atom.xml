@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>cosmos000</title>
- <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
- <link href="http://lanyon.getpoole.com/"/>
- <updated>2014-09-29T00:45:28-05:00</updated>
- <id>http://lanyon.getpoole.com</id>
+ <link href="http://cosmos000.com/atom.xml" rel="self"/>
+ <link href="http://cosmos000.com/"/>
+ <updated>2014-09-29T00:48:44-05:00</updated>
+ <id>http://cosmos000.com</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>Jason Bucki</name>
+   <email>jasonbucki@gmail.com</email>
  </author>
 
  
  <entry>
    <title>09/22/2014 BIR Performance Driving School</title>
-   <link href="http://lanyon.getpoole.com/2014/09/28/bir-school-2014-09-22/"/>
+   <link href="http://cosmos000.com/2014/09/28/bir-school-2014-09-22/"/>
    <updated>2014-09-28T00:00:00-05:00</updated>
-   <id>http://lanyon.getpoole.com/2014/09/28/bir-school-2014-09-22</id>
+   <id>http://cosmos000.com/2014/09/28/bir-school-2014-09-22</id>
    <content type="html">&lt;p&gt;Some video and data from my most recent trip to &lt;a href=&quot;http://www.birperformance.com/bir-performance-driving-school/&quot;&gt;Gary Curtis&amp;#39; Performance Driving School&lt;/a&gt; at Brainerd International Raceway.&lt;/p&gt;
 
 &lt;h3&gt;Videos&lt;/h3&gt;
