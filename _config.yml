@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               cosmos000
 tagline:             'E36 M3 autocross and HPDE log'
-description:         'E36 M3 autocross and HPDE log'
+description:         'cosmos#000 - E36 M3 autocross and HPDE log'
 url:                 http://cosmos000.com
 baseurl:             /
 paginate:            5
